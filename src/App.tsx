@@ -1337,7 +1337,7 @@ function DailyPlannerSection() {
         <div className="box-border content-stretch flex flex-col gap-[64px] items-center pb-[80px] pt-[52px] px-4 sm:px-8 lg:px-[80px] relative w-full">
           <DailyPlannerSectionHeader />
           <DailyPlannerFeatures />
-          <p className="text-[11px] text-gray-500 text-center mt-8 max-w-[600px]">
+          <p className="text-[13px] text-gray-500 text-center mt-8 max-w-[600px]">
             * 런칭 초기에는 일부 기능이 제공되지 않을 수 있습니다. 순차적으로 업데이트될 예정이니 양해 부탁드립니다.
           </p>
         </div>
